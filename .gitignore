@@ -1,0 +1,18 @@
+.env*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+*.db
+*.bak
+*.bak-*
+*.zip
+.DS_Store
+# Инструкции для ИИ-помощников не публикуются без разрешения владельца
+CLAUDE.md
+AGENTS.md
+PLAN.md
+.claude/
